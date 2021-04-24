@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/www-wanglong/gulp-project#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
-  }
+    "@babel/core": "^7.13.15",
+    "@babel/preset-env": "^7.13.15",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {}
 }
